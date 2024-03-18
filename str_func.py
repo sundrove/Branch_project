@@ -3,3 +3,7 @@ def up_string(s):
     return s.upper()
 
 
+def title_str(s):
+    """делает первые буквы слова заглавными"""
+    return s.title()
+
